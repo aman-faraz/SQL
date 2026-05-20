@@ -62,26 +62,6 @@ This project analyzes food delivery data inspired by Swiggy to understand restau
 
 ---
 
-# Repository Structure
-
-```text
-SQL/
-│
-├── E-Commerce-Analysis/
-│   ├── datasets
-│   ├── SQL queries
-│   └── project files
-│
-├── Swiggy-Analysis/
-│   ├── datasets
-│   ├── SQL queries
-│   └── project files
-│
-└── README.md
-```
-
----
-
 # Tools & Technologies
 
 - SQL
